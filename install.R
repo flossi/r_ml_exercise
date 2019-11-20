@@ -1,4 +1,6 @@
 install.packages("randomForest")
 install.packages("rpart")
-install.packages("dplyr")
+install.packages("rpart.plot")
 install.packages("gbm")
+install.packages("car")
+install.packages("caret")
